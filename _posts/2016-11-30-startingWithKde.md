@@ -2,6 +2,7 @@
 layout: post
 title: Starting with KDE
 subtitle: A new journey
+tags: ['KDE']
 ---
 
 Alot to write and express. It's been an awesome journey so far. Well, I am talking about my journey in open source world. The world of free open source softwares. 
