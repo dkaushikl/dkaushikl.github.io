@@ -1,7 +1,6 @@
 ---
 layout: post
 title: GSoC-First month analysis
-subtitle: Part 1
 tags: ['KDE','Google Summer of Code','GCompris']
 ---
 As described in my previous blog post [GSoC Week 1](https://divyam3897.github.io/2017-06-10-GSoC-Week1-ComesToAnEnd/) I would 
@@ -30,4 +29,4 @@ to continue the game.
 Animations are yet to be done where the seeds are seen moving in each turn to make it more interactive. Next in turn is the AI mode
 where I will use Alpha beta pruning for making the computer give competition to the player :)
 To play the two player mode you can see [Code Repository](https://cgit.kde.org/gcompris.git/tree/?h=gsoc_oware Code repository) . More about the AI mode in the
-next blog post..
+next blog post. :)
