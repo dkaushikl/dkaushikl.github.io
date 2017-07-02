@@ -28,5 +28,5 @@ to continue the game.
 
 Animations are yet to be done where the seeds are seen moving in each turn to make it more interactive. Next in turn is the AI mode
 where I will use Alpha beta pruning for making the computer give competition to the player :)
-To play the two player mode you can see [Code Repository](https://cgit.kde.org/gcompris.git/tree/?h=gsoc_oware Code repository) . More about the AI mode in the
+To play the two player mode you can see [Code Repository](https://cgit.kde.org/gcompris.git/tree/?h=gsoc_oware) . More about the AI mode in the
 next blog post. :)
