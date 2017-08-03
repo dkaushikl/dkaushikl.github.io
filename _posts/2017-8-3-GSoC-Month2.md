@@ -8,8 +8,7 @@ So, the second month came to an end, I wanted to write this blog post on my birt
 The second month started well, I made the initial version of AI using alpha beta but then
 I was stuck at the animations. I tried various approaches, I started with the animations at
 seed level and thought of moving all seeds together but in the initial stage I thought that
-it's giving me less control as there were problems with accessing the seeds at that stage for me
-at the js level or ourside of the two nested repeaters.
+it's giving me less control as there were problems with accessing the seeds at the js level or ourside of the two nested repeaters.
 
 Then I thought of moving it to house level, It started off well, the approach followed was that
 I checked which house index the user has clicked example if the user has clicked on index 11 then
@@ -18,8 +17,8 @@ was the same animation was called by all the strings, so basically yUp was calle
 which the count of seeds became 0 at the very first move and the seeds didn't move further.
 
 I discussed the situation with my mentors and was suggested to follow the same approach but at the seeds level.
-Yes, you read it right, I turned to seeds level again. The approach was, I started the initial animation for all
-the seeds at first:
+Yes, you read it right, I turned to seeds level again. The approach was the same as house levels but I did it for each seed.
+I started the initial animation for all the seeds at first:
 ```
 /* If the indexValue on which player has clicked is between 6 and 11 then the first move will be towards right. */
 if(items.indexValue >= 6 && items.indexValue < 11)
