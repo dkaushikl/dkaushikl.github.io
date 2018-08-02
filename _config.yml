@@ -24,6 +24,13 @@ description: Turning imagination into reality
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
+  Projects:
+    - GSoC'17: "https://summerofcode.withgoogle.com/projects/#5877039098757120"
+    - Season of KDE: "https://github.com/gcompris/GCompris-qt/commit/43ef8edeaa8a72994e861aefaabe22c56d790677"
+    - Customer Analyzer: "https://github.com/divyam3897/customersAnalyzer"
+    - Generative Adversarial networks: "https://github.com/divyam3897/gans"
+    - Adversarial examples: "https://github.com/divyam3897/adversarial-examples"
+  Resume / CV: "https://goo.gl/svxpku"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
