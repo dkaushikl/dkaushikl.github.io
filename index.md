@@ -1,36 +1,30 @@
 ---
 layout: page
-title: Divyam Madaan
+title: Kaushik Dhameliya
 meta-title: About me
-subtitle: "For a start, my favourite quote is, <br> Do what you love, love what you do."
+subtitle: "For a start, my favourite quote is,<br> while(!(succeed  = try()));"
 ---
 
 <div id="aboutme-section">
 
 <p class="about-text">
 <span class="fa fa-briefcase about-icon"></span>
- Hi, my name is <strong>Divyam Madaan</strong>, I am a Master's student at <a target="_blank" href="https://www.mlai-kaist.com/"> Machine Learning and Artificial Intelligence (MLAI) Lab</a> 
- in Korea Advanced Institute of Science and Technology (KAIST), under the supervison of <a target="_blank" href="http://www.sungjuhwang.com/"> Prof. Sung Ju Hwang</a>.
+ Hi, I am <strong>Kaushik Dhameliya</strong>  a 25 year old full-stack Web developer, and an entrepreneur living in Gujarat, India. 
  </p>
+
 <p class="about-text">
 <span class="fa fa-graduation-cap about-icon"></span>
-I finished my B.E. degree at <a target="_blank" href="http://puchd.ac.in/">Panjab&nbsp;University</a>, India in 2019.
+I have completed my Bachelor of Technology degree in <strong>Computer Engineering</strong> from Gujarat&nbsp;Technological&nbsp;University(GTU) in 2016, Presently I am working as a full-time freelancers.
 </p>
 
 <p class="about-text">
 <span class="fa fa-code about-icon"></span>
-My research interests include adversarial robustness, network compression, ensemble learning, and meta-learning.
-</p>
-
-<p class="about-text">
-<span class="fa fa-heart about-icon"></span>
-I am an avid open source enthusiast, contributor, and passionate about AI as a whole. I love listening to music, cooking and spreading my knowledge to the community. 
-Eager in meeting new people, to connect, discuss, network and grow, mostly at academic conferences, dev-fests, and meet-ups.
+  I am a programmer, who loves to write code, eat, and sleep. I mostly prefer work in Asp.Net, Node, React, Angular, and Ionic.
 </p>
 
 <p class="about-text">
 <span class="fa fa-envelope about-icon"></span>
-Let’s connect if you want to collab and create something awesome in the world of open source tech. Follow the social media links given below or drop a mail <a target="_blank" href="mailto:dmadaan[at]kaist.ac.kr">here</a>.
+I am always excited to work on great projects, message me and let's discuss. Follow the social media links given below or drop a mail <a target="_blank" href="mailto:dhameliyakaushik13@gmail.com">here</a>.
 </p>
 
 <br>
