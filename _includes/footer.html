@@ -5,7 +5,7 @@
         <ul class="list-inline text-center footer-links">
           {% if site.author.facebook and site.footer-links-active.facebook %}
           <li>
-            <a href="https://www.facebook.com/{{ site.author.facebook }}" title="Facebook">
+            <a target="_blank" href="https://www.facebook.com/{{ site.author.facebook }}" title="Facebook">
               <span class="fa-stack fa-lg">
                 <i class="fa fa-circle fa-stack-2x"></i>
                 <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
@@ -15,7 +15,7 @@
           {% endif %}
           {% if site.author.github and site.footer-links-active.github %}
           <li>
-            <a href="https://github.com/{{ site.author.github }}" title="GitHub">
+            <a target="_blank" href="https://github.com/{{ site.author.github }}" title="GitHub">
               <span class="fa-stack fa-lg">
                 <i class="fa fa-circle fa-stack-2x"></i>
                 <i class="fa fa-github fa-stack-1x fa-inverse"></i>
@@ -23,9 +23,9 @@
             </a>
           </li>
           {% endif %}
-		  {% if site.author.twitter and site.footer-links-active.twitter %}
+          {% if site.author.twitter and site.footer-links-active.twitter %}
           <li>
-            <a href="https://twitter.com/{{ site.author.twitter }}" title="Twitter">
+            <a target="_blank" href="https://twitter.com/{{ site.author.twitter }}" title="Twitter">
               <span class="fa-stack fa-lg">
                 <i class="fa fa-circle fa-stack-2x"></i>
                 <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
@@ -33,9 +33,9 @@
             </a>
           </li>
           {% endif %}
-	  {% if site.author.reddit and site.footer-links-active.reddit %}
+          {% if site.author.reddit and site.footer-links-active.reddit %}
           <li>
-            <a href="https://reddit.com/u/{{ site.author.reddit }}" title="Reddit">
+            <a target="_blank" href="https://reddit.com/u/{{ site.author.reddit }}" title="Reddit">
               <span class="fa-stack fa-lg">
                 <i class="fa fa-circle fa-stack-2x"></i>
                 <i class="fa fa-reddit fa-stack-1x fa-inverse"></i>
@@ -43,9 +43,9 @@
             </a>
           </li>
           {% endif %}
-      {% if site.author.google-plus and site.footer-links-active.google-plus %}
+          {% if site.author.google-plus and site.footer-links-active.google-plus %}
           <li>
-            <a href="https://plus.google.com/{{ site.author.google-plus }}" title="Google+">
+            <a target="_blank" href="https://plus.google.com/{{ site.author.google-plus }}" title="Google+">
               <span class="fa-stack fa-lg">
                 <i class="fa fa-circle fa-stack-2x"></i>
                 <i class="fa fa-google-plus fa-stack-1x fa-inverse"></i>
@@ -53,9 +53,9 @@
             </a>
           </li>
           {% endif %}
-		  {% if site.author.email and site.footer-links-active.email %}
+          {% if site.author.email and site.footer-links-active.email %}
           <li>
-            <a href="mailto:{{ site.author.email }}" title="Email me">
+            <a target="_blank" href="mailto:{{ site.author.email }}" title="Email me">
               <span class="fa-stack fa-lg">
                 <i class="fa fa-circle fa-stack-2x"></i>
                 <i class="fa fa-envelope fa-stack-1x fa-inverse"></i>
@@ -63,9 +63,9 @@
             </a>
           </li>
           {% endif %}
-		  {% if site.author.linkedin and site.footer-links-active.linkedin %}
+          {% if site.author.linkedin and site.footer-links-active.linkedin %}
           <li>
-            <a href="https://linkedin.com/in/{{ site.author.linkedin }}" title="LinkedIn">
+            <a target="_blank" href="https://linkedin.com/in/{{ site.author.linkedin }}" title="LinkedIn">
               <span class="fa-stack fa-lg">
                 <i class="fa fa-circle fa-stack-2x"></i>
                 <i class="fa fa-linkedin fa-stack-1x fa-inverse"></i>
@@ -73,9 +73,9 @@
             </a>
           </li>
           {% endif %}
-		  {% if site.author.xing and site.footer-links-active.xing %}
+          {% if site.author.xing and site.footer-links-active.xing %}
           <li>
-            <a href="https://www.xing.com/profile/{{ site.author.xing }}" title="Xing">
+            <a target="_blank" href="https://www.xing.com/profile/{{ site.author.xing }}" title="Xing">
               <span class="fa-stack fa-lg">
                 <i class="fa fa-circle fa-stack-2x"></i>
                 <i class="fa fa-xing fa-stack-1x fa-inverse"></i>
@@ -83,9 +83,10 @@
             </a>
           </li>
           {% endif %}
-		  {% if site.author.stackoverflow and site.footer-links-active.stackoverflow %}
+          {% if site.author.stackoverflow and site.footer-links-active.stackoverflow %}
           <li>
-            <a href="https://stackoverflow.com/users/{{ site.author.stackoverflow }}" title="StackOverflow">
+            <a target="_blank" href="https://stackoverflow.com/users/{{ site.author.stackoverflow }}"
+              title="StackOverflow">
               <span class="fa-stack fa-lg">
                 <i class="fa fa-circle fa-stack-2x"></i>
                 <i class="fa fa-stack-overflow fa-stack-1x fa-inverse"></i>
@@ -93,9 +94,9 @@
             </a>
           </li>
           {% endif %}
-      {% if site.author.snapchat and site.footer-links-active.snapchat %}
+          {% if site.author.snapchat and site.footer-links-active.snapchat %}
           <li>
-            <a href="https://www.snapchat.com/add/{{ site.author.snapchat }}" title="Snapchat">
+            <a target="_blank" href="https://www.snapchat.com/add/{{ site.author.snapchat }}" title="Snapchat">
               <span class="fa-stack fa-lg">
                 <i class="fa fa-circle fa-stack-2x"></i>
                 <i class="fa fa-snapchat-ghost fa-stack-1x fa-inverse"></i>
@@ -103,9 +104,9 @@
             </a>
           </li>
           {% endif %}
-      {% if site.author.instagram and site.footer-links-active.instagram %}
+          {% if site.author.instagram and site.footer-links-active.instagram %}
           <li>
-            <a href="https://www.instagram.com/{{ site.author.instagram }}" title="Instagram">
+            <a target="_blank" href="https://www.instagram.com/{{ site.author.instagram }}" title="Instagram">
               <span class="fa-stack fa-lg">
                 <i class="fa fa-circle fa-stack-2x"></i>
                 <i class="fa fa-instagram fa-stack-1x fa-inverse"></i>
@@ -113,9 +114,9 @@
             </a>
           </li>
           {% endif %}
-      {% if site.author.youtube and site.footer-links-active.youtube %}
+          {% if site.author.youtube and site.footer-links-active.youtube %}
           <li>
-            <a href="https://www.youtube.com/{{ site.author.youtube }}" title="YouTube">
+            <a target="_blank" href="https://www.youtube.com/{{ site.author.youtube }}" title="YouTube">
               <span class="fa-stack fa-lg">
                 <i class="fa fa-circle fa-stack-2x"></i>
                 <i class="fa fa-youtube fa-stack-1x fa-inverse"></i>
@@ -123,52 +124,47 @@
             </a>
           </li>
           {% endif %}
-      {% if site.author.spotify and site.footer-links-active.spotify %}
+          {% if site.author.spotify and site.footer-links-active.spotify %}
           <li>
-            <a href="https://open.spotify.com/user/{{ site.author.spotify }}" title="Spotify">
+            <a target="_blank" href="https://open.spotify.com/user/{{ site.author.spotify }}" title="Spotify">
               <span class="fa-stack fa-lg">
                 <i class="fa fa-circle fa-stack-2x"></i>
                 <i class="fa fa-spotify fa-stack-1x fa-inverse"></i>
               </span>
             </a>
           </li>
-       {% endif %}
-      {% if site.author.telephone and site.footer-links-active.telephone %}
+          {% endif %}
+          {% if site.author.telephone and site.footer-links-active.telephone %}
           <li>
-            <a href="tel:{{ site.author.telephone }}" title="Phone">
+            <a target="_blank" href="tel:{{ site.author.telephone }}" title="Phone">
               <span class="fa-stack fa-lg">
                 <i class="fa fa-circle fa-stack-2x"></i>
                 <i class="fa fa-phone fa-stack-1x fa-inverse"></i>
               </span>
             </a>
           </li>
-        {% endif %}
-		  {% if site.footer-links-active.rss %}
-		  <li>
-			<a href="{{ '/feed.xml' | prepend: site.baseurl }}" title="RSS">
-			  <span class="fa-stack fa-lg">
-				<i class="fa fa-circle fa-stack-2x"></i>
-				<i class="fa fa-rss fa-stack-1x fa-inverse"></i>
-			  </span>
-			</a>
-		  </li>
+          {% endif %}
+          {% if site.footer-links-active.rss %}
+          <li>
+            <a target="_blank" href="{{ '/feed.xml' | prepend: site.baseurl }}" title="RSS">
+              <span class="fa-stack fa-lg">
+                <i class="fa fa-circle fa-stack-2x"></i>
+                <i class="fa fa-rss fa-stack-1x fa-inverse"></i>
+              </span>
+            </a>
+          </li>
           {% endif %}
         </ul>
         <p class="copyright text-muted">
-		  {{ site.author.name }}
-		  &nbsp;&bull;&nbsp;
-		  {{ site.time | date: '%Y' }}
+          {{ site.author.name }}
+          &nbsp;&bull;&nbsp;
+          {{ site.time | date: '%Y' }}
 
-		  {% if site.url-pretty %}
-		  &nbsp;&bull;&nbsp;
-		  <a href="{{ site.url }}">{{ site.url-pretty }}</a>
-		  {% endif %}
-	    </p>
-	        <!-- Please don't remove this, keep my open source work credited :) -->
-		<p class="theme-by text-muted">
-		  Theme by
-		  <a href="http://deanattali.com/beautiful-jekyll/">beautiful-jekyll</a>
-		</p>
+          {% if site.url-pretty %}
+          &nbsp;&bull;&nbsp;
+          <a target="_blank" href="{{ site.url }}">{{ site.url-pretty }}</a>
+          {% endif %}
+        </p>
       </div>
     </div>
   </div>

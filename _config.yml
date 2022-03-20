@@ -4,7 +4,7 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
-url: "http://divyam3897.github.io"
+url: "http://dkaushikl.github.io"
 baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
@@ -14,27 +14,21 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Divyam Madaan
+title: Kaushik Dhameliya
 
 # Short description of your site
-description: Turning imagination into reality
+description: A passionate coder
 
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
-  Projects:
-    - GSoC'17: "https://summerofcode.withgoogle.com/projects/#5877039098757120"
-    - Season of KDE: "https://github.com/gcompris/GCompris-qt/commit/43ef8edeaa8a72994e861aefaabe22c56d790677"
-    - Customer Analyzer: "https://github.com/divyam3897/customersAnalyzer"
-    - Generative Adversarial networks: "https://github.com/divyam3897/gans"
-    - Adversarial examples: "https://github.com/divyam3897/adversarial-examples"
-  Resume / CV: "https://goo.gl/svxpku"
+  Blogs: "https://www.c-sharpcorner.com/members/kaushik-dhameliya2/blogs"
+  Resume / CV: "KaushikCV.pdf"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/avatar-icon.png"
+# avatar: "/img/avatar-icon.png"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
@@ -45,14 +39,14 @@ avatar: "/img/avatar-icon.png"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: DM
-  email: "divyam3897@gmail.com"
-  facebook: divyam.madaan.1  # eg. daattali
-  github: divyam3897    # eg. daattali
-  twitter: divyam3897   # eg. daattali
+  name: Kaushik Dhameliya
+  email: "dkaushikl1610@gmail.com"
+  facebook: dkaushikl  # eg. daattali
+  github: dkaushikl    # eg. daattali
+  twitter: dkaushikl   # eg. daattali
   reddit: yourname    # eg. daattali
   google-plus: +yourname   # eg. +DeanAttali or 109424658772469020925
-  linkedin: divyam-madaan  # eg. daattali
+  linkedin: dkaushikl  # eg. daattali
   xing: yourname      # eg. daattali
   stackoverflow: yourlink  # eg. "3943160/daattali"
   snapchat: yourname  # eg. daattali
@@ -65,7 +59,7 @@ author:
 footer-links-active:
   rss: false
   facebook: true
-  email: false
+  email: true
   twitter: true
   google-plus: false
   github: true
