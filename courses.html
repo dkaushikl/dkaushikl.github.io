@@ -67,6 +67,10 @@
     return map;
 }
 
+// Define a custom sorting order
+const categoryOrder = ["AI", "Frontend", "Backend", "Devops", "Security", "Accessibility"];
+
+
       
       const datas = [
         {
@@ -311,22 +315,31 @@
         }
     ]
       const grouped = groupBy(datas, data => data.technology);
- 
-      
-      let html = '';
-      for (const [key, value] of grouped) {
 
-   html += `<h2>${key}</h2><ul>`
- 
-        for (let j = 0; j < value.length; j++) {
-          html += `<li style="text-transform: capitalize;"><a href="${value[j].certificateLink}" target="_blank">${value[j].title}</a></li>`
-        }
-        html += "</ul>"
-}
+ // Define a custom sorting order
+
+// Sort categories based on predefined order
+const sortedKeys = Array.from(grouped.keys()).sort((a, b) => {
+    const indexA = categoryOrder.indexOf(a);
+    const indexB = categoryOrder.indexOf(b);
+    
+    // If a category isn't found in the order list, push it to the end
+    return (indexA === -1 ? Infinity : indexA) - (indexB === -1 ? Infinity : indexB);
+});
       
-      console.log(html)
-      
-      document.getElementById("test").innerHTML = html;
+let html = '';
+sortedKeys.forEach((key) => {
+    html += `<h2 style="text-transform: capitalize;">${key}</h2><ul>`;
+    grouped.get(key).forEach(item => {
+        html += `<li style="text-transform: capitalize;">
+                    <a href="${item.certificateLink}" target="_blank">${item.title}</a>
+                 </li>`;
+    });
+    html += "</ul>";
+});
+
+// Fix variable name (HTML → html)
+document.getElementById("test").innerHTML = html;
     </script>
 </body>
 </html>
