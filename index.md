@@ -9,7 +9,7 @@ subtitle: "For a start, my favourite quote is,<br> while(!(succeed  = try()));"
 
 <p class="about-text">
 <span class="fa fa-briefcase about-icon"></span>
- Hi, I am <strong>Kaushik Dhameliya</strong>  a 25 year old full-stack Web developer, and an entrepreneur living in Gujarat, India. 
+ Hi, I am <strong>Kaushik Dhameliya</strong> full-stack Web developer and an entrepreneur living in Gujarat, India. 
  </p>
 
 <p class="about-text">
@@ -19,12 +19,12 @@ I have completed my Bachelor of Technology degree in <strong>Computer Engineerin
 
 <p class="about-text">
 <span class="fa fa-code about-icon"></span>
-  I am a programmer, who loves to write code, eat, and sleep. I mostly prefer work in Asp.Net, Node, React, Angular, and Ionic.
+  I am a programmer who loves writing code, eating, and sleeping. I mostly prefer to work in ASP.NET, Node, React, Angular, and Ionic.
 </p>
 
 <p class="about-text">
 <span class="fa fa-envelope about-icon"></span>
-I am always excited to work on great projects, message me and let's discuss. Follow the social media links given below or drop a mail <a target="_blank" href="mailto:dkaushikl1610@gmail.com">here</a>.
+I am always excited to work on great projects. message me, and let's discuss. Follow the social media links given below or drop a email <a target="_blank" href="mailto:dkaushikl1610@gmail.com">here</a>.
 </p>
 
 <br>
