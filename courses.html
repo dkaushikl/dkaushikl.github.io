@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Certifications & Courses</title>
     <link rel="stylesheet" href="styles.css">
+   
 </head>
 <body>
     <header>
@@ -102,5 +103,220 @@
             </ul>
         </section>
     </main>
+
+     <script>
+// scripts/linkCourses.js
+
+// Data object containing course titles and their URLs
+const data = {
+    "udemy": [
+        {
+            "title": "Build Polymorphic Components with React and Typescript",
+            "certificateLink": "https://UC-1e3a6452-62c4-479f-a16a-1da5a7969781/"
+        },
+        {
+            "title": "Creating Accessible Websites",
+            "certificateLink": "https://UC-c95e0648-9680-4833-8689-441d70307e46/"
+        },
+        {
+            "title": "Introduction to UX Design for Accessibility and WCAG 2.0",
+            "certificateLink": "https://ude.my/UC-9a05ab4f-54cf-438c-92a4-4df0d15d977e/"
+        },
+        {
+            "title": "Advanced React For Enterprise: React for senior engineers",
+            "certificateLink": "https://ude.my/UC-28bd4f7a-110a-4391-93b2-d0706d7e3327/"
+        },
+        {
+            "title": "GraphQL with React: The Complete Developers Guide",
+            "certificateLink": "https://ude.my/UC-3140b5d8-15b8-4f8a-9923-7b8112e3a8e1/"
+        },
+        {
+            "title": "NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno)",
+            "certificateLink": "https://ude.my/UC-8d37b950-d5c4-4456-ad62-e811559ba67b/"
+        },
+        {
+            "title": "Asynchronous JavaScript: Promises, Callbacks, Async Await",
+            "certificateLink": "https://ude.my/UC-b8d6f3cf-169e-4b21-a3db-879c309be65f/"
+        }
+    ],
+    "linkedin-learning": [
+        {
+            "title": "JavaScript: Test-Driven Development (ES6)",
+            "certificateLink": "https://www.linkedin.com/learning/certificates/89ad6291f49c6a682b9f4a1d94bba0c0d30ab10b965e782821ce8232a3cdc0f8?trk=share_certificate"
+        },
+        {
+            "title": "Learning Jenkins",
+            "certificateLink": "https://www.linkedin.com/learning/certificates/8237a3fe1860a73205c5d2b3bf75c9c07d87eee78afb79e6aa38511884fee798?trk=share_certificate"
+        },
+        {
+            "title": "Kubernetes: Package Management with Helm (2020)",
+            "certificateLink": "https://www.linkedin.com/learning/certificates/3a4284ba311b7152c36b804375d5ff116d0cd3b2d95a80c02253f6785953d4b8?trk=share_certificate"
+        },
+        {
+            "title": "Practical GitHub Project Management and Collaboration",
+            "certificateLink": "https://www.linkedin.com/learning/certificates/cf0d3fded38b21dee5d6882661ff9f0f71906c3e05d4e04c99dd4405ca2cffac?trk=share_certificate"
+        },
+        {
+            "title": "JavaScript: Closures",
+            "certificateLink": "https://www.linkedin.com/learning/certificates/06ddca8f1ee83a35215f29d2028dd2466c98979385e27886d08b4bfe616ab310?trk=share_certificate"
+        },
+        {
+            "title": "AI Programming for JavaScript Developers",
+            "certificateLink": "https://www.linkedin.com/learning/certificates/a5d765a10a7fe8cd55fc1b701fedd224101eda18c6114bdc48e2d025aaa1a161?trk=share_certificate"
+        },
+        {
+            "title": "Learning Kubernetes",
+            "certificateLink": "https://www.linkedin.com/learning/certificates/33144ae7e6a22800abb0a33ec41e0ef5cf49da4b2b0040b4d9128eedac97c848?trk=share_certificate"
+        },
+        {
+            "title": "Practical GitHub Code Search",
+            "certificateLink": "https://www.linkedin.com/learning/certificates/0d1f8b3d8c8b189f435126282472938aa309527b3c8102a2b0c61a766a811481?trk=share_certificate"
+        },
+        {
+            "title": "Practical GitHub Copilot",
+            "certificateLink": "https://www.linkedin.com/learning/certificates/97e8e682a4c8088599bc036dc23f8803b99479e81528b2b161fb712fd91d70e9?trk=share_certificate"
+        },
+        {
+            "title": "Practical GitHub Actions",
+            "certificateLink": "https://www.linkedin.com/learning/certificates/78ec47300bdd85a44a8499e8285a1b698b7a57c2d85169abafa689bd542f56c2?trk=share_certificate"
+        },
+        {
+            "title": "Kubernetes: Service Mesh with Istio (2018)",
+            "certificateLink": "https://www.linkedin.com/learning/certificates/d140a3bab168bab296c289d103e695ba54c97a7e4b1193c51079b2cb579f56d1?trk=share_certificate"
+        },
+        {
+            "title": "Cybersecurity Foundations: Application Security",
+            "certificateLink": "https://www.linkedin.com/learning/certificates/34aae20900edb285121d15496654a4f583793d37e4b858397008f54dbca32745?trk=share_certificate"
+        },
+        {
+            "title": "Learning NGINX",
+            "certificateLink": "https://www.linkedin.com/learning/certificates/9f9c6ad3bfa434576ea0389994084f75ab2165784096f87e7bff068b5cfc79e7?trk=share_certificate"
+        },
+        {
+            "title": "DevOps Foundations: DevSecOps",
+            "certificateLink": "https://www.linkedin.com/learning/certificates/970569de7c6a9c61b0ceaf4727a156539bffbecc570e8175718b0720e9b366cc?trk=share_certificate"
+        },
+        {
+            "title": "Jenkins Essential Training",
+            "certificateLink": "https://www.linkedin.com/learning/certificates/4be11f26e7bfb57cedecf9aa7c24c4e3067a274d95d236262e86e5dd7fea7ace?trk=share_certificate"
+        },
+        {
+            "title": "Build a JavaScript AI App with React and the OpenAI API",
+            "certificateLink": "https://www.linkedin.com/learning/certificates/0b75fcb74863e3084f5433e6956bf8a6b3bbc17f2ceb91af0d7bdc9476726362?trk=share_certificate"
+        },
+        {
+            "title": "CSS: Design Systems and Architectures",
+            "certificateLink": "https://www.linkedin.com/learning/certificates/0fc3eeaec3d9129f4c442b4956f045ba671c6efa55c91492ecf5c8295e320ae1?trk=share_certificate"
+        },
+        {
+            "title": "Web Accessibility for Developers",
+            "certificateLink": "https://www.linkedin.com/learning/certificates/7dedcf21ddf818c2e0b8653bba6629bf33073185fa8f4a1d2c31ca6ac622f075?trk=share_certificate"
+        },
+        {
+            "title": "React: Accessibility",
+            "certificateLink": "https://www.linkedin.com/learning/certificates/0c5097e70d5240732238513431f5a1d1ebbff2294428df4556771efd709d373a?trk=share_certificate"
+        },
+        {
+            "title": "Foundational JavaScript Security",
+            "certificateLink": "https://www.linkedin.com/learning/certificates/b5718227c85b74b713a7275b247a64f3213434804834cf109d27c644d2c9eb87?trk=share_certificate"
+        },
+        {
+            "title": "TypeScript: Object-Oriented Programming",
+            "certificateLink": "https://www.linkedin.com/learning/certificates/704bcef0363d85bc0ad509e096f0ef2b0a780cea7e6b2538c4e2132902c7a4d0?trk=share_certificate"
+        },
+        {
+            "title": "Accessibility for Web Design",
+            "certificateLink": "https://www.linkedin.com/learning/certificates/ef6c9bfd57b36e8a5e64aa44d506a9248ec378898d107302b98f0fedd793e5dc?trk=share_certificate"
+        },
+        {
+            "title": "ChatGPT: Publishing GPTs on the GPT Store",
+            "certificateLink": "https://www.linkedin.com/learning/certificates/9759136fa8c49906b5596b32d21aef0c46e1f2cdfcae1661dfebc24d5f21df39?trk=share_certificate"
+        },
+        {
+            "title": "Developing for Web Performance",
+            "certificateLink": "https://www.linkedin.com/learning/certificates/8ec27290aff9f64f35f2999642e3ed757a14a4ed8fb45028a09d2f87204df7b6?trk=share_certificate"
+        },
+        {
+            "title": "Microservices: Design Patterns (2020)",
+            "certificateLink": "https://www.linkedin.com/learning/certificates/bd0276c3ec6954e2bcea6bc6ee29b1ed538917cbeffba2bca943091ba1c5db99?trk=share_certificate"
+        },
+        {
+            "title": "Prompt Engineering: How to Talk to the AIs",
+            "certificateLink": "https://www.linkedin.com/learning/certificates/d83112f66e351f5355e356e619e4ebd516b55edb4d5a20764915c1bbbe2729be?trk=share_certificate"
+        },
+        {
+            "title": "JavaScript: Security Essentials (2019)",
+            "certificateLink": "https://www.linkedin.com/learning/certificates/4c3a3d0d82c0eed19ae29ea230c37b7f68f7a5cded30aa51c3324d7e4557eed5?trk=share_certificate"
+        },
+        {
+            "title": "React: Securing Applications",
+            "certificateLink": "https://www.linkedin.com/learning/certificates/67361ad9bda1ae6add80f3aa2b89b0e4adf1af79ab6365f72c01b8aac54117d1?trk=share_certificate"
+        },
+        {
+            "title": "Learning the OWASP Top 10",
+            "certificateLink": "https://www.linkedin.com/learning/certificates/7b0b3a587b37f84c814faed3f5e958bc217926a1390d40386549b99dfad5c5d1?trk=share_certificate"
+        },
+        {
+            "title": "Programming Foundations: Web Security (2019)",
+            "certificateLink": "https://www.linkedin.com/learning/certificates/a569076e557151abb50faccb752f4d8867049ebd421400d126a216b4c17fb15c?trk=share_certificate"
+        },
+        {
+            "title": "Learning Chrome Web Developer Tools",
+            "certificateLink": "https://www.linkedin.com/learning/certificates/554cce7ec2641c53c8a34217a3548f4f262bdc2ecfba32ad265c3b03df4ab637?trk=share_certificate"
+        }
+    ],
+    "pluralsight": [
+        {
+            "title": "Micro Frontend Fundamentals",
+            "certificateLink": "https://app.pluralsight.com/achievements/share/14cfc7de-c575-42cd-a48d-1c2a3386aed2"
+        },
+        {
+            "title": "Functional JavaScript Libraries Playbook",
+            "certificateLink": "https://app.pluralsight.com/achievements/share/eef36bf1-e7cd-420b-a19a-e2a778a31ab4"
+        }
+    ]
+};
+
+// Function to set hyperlinks for each course
+function setCourseLinks() {
+    const courseListItems = document.querySelectorAll('main .category ul li a');
+
+    courseListItems.forEach(link => {
+        const courseTitle = link.textContent.trim();
+        let found = false;
+
+        // Search in Udemy courses
+        data.udemy.forEach(course => {
+            if (course.title === courseTitle) {
+                link.href = course.certificateLink;
+                found = true;
+            }
+        });
+
+        // Search in LinkedIn Learning courses if not found in Udemy
+        if (!found) {
+            data["linkedin-learning"].forEach(course => {
+                if (course.title === courseTitle) {
+                    link.href = course.certificateLink;
+                    found = true;
+                }
+            });
+        }
+
+        // Search in Pluralsight courses if not found in previous sources
+        if (!found) {
+            data.pluralsight.forEach(course => {
+                if (course.title === courseTitle) {
+                    link.href = course.certificateLink;
+                }
+            });
+        }
+    });
+}
+
+// Call the function to set the links
+setCourseLinks();
+
+</script>
 </body>
 </html>
