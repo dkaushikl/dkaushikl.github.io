@@ -12,7 +12,7 @@ subtitle: "For a start, my favourite quote is,<br> while(!(succeed  = try()));"
  Hi, I am <strong>Kaushik Dhameliya</strong> full-stack Web developer and an entrepreneur living in Gujarat, India. 
  </p>
 
-<p class="about-text">
+<p class="about-text about-test">
 <span class="fa fa-graduation-cap about-icon"></span>
 I have completed my Bachelor of Technology degree in <strong>Computer Engineering</strong> from Gujarat&nbsp;Technological&nbsp;University(GTU) in 2016, Presently I am working as a full-time freelancers.
 </p>
