@@ -238,6 +238,12 @@
             "certificateLink": "https://app.pluralsight.com/achievements/share/eef36bf1-e7cd-420b-a19a-e2a778a31ab4",
             "platform": "Pluralsight",
             "technology": "Frontend"
+        },
+        {
+            "title": "Eliminating Security Vulnerabilities with NPM 6 Audit",
+            "certificateLink": "https://app.pluralsight.com/achievements/share/a1b8518c-1b08-4fd5-898f-d841e2c2ea15",
+            "platform": "Pluralsight",
+            "technology": ["Security", "Frontend"]
         }
     ]
       
