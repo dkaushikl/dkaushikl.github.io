@@ -244,6 +244,18 @@
             "certificateLink": "https://app.pluralsight.com/achievements/share/a1b8518c-1b08-4fd5-898f-d841e2c2ea15",
             "platform": "Pluralsight",
             "technology": ["Security", "Frontend"]
+        },
+        {
+            "title": "Getting Started with Shell Scripting for Bash and Z Shell",
+            "certificateLink": "https://app.pluralsight.com/achievements/share/3e15e612-4115-43b8-af0f-758c0714e3cd",
+            "platform": "Pluralsight",
+            "technology": ["Frontend"]
+        },
+        {
+            "title": "Package Management in JavaScript with npm and Yarn",
+            "certificateLink": "https://app.pluralsight.com/achievements/share/70ee87c3-c81b-4934-b02b-a5b3f8931c9f",
+            "platform": "Pluralsight",
+            "technology": ["Frontend"]
         }
     ]
       
