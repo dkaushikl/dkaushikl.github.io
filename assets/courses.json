@@ -3,7 +3,7 @@
             "title": "Build Polymorphic Components with React and Typescript",
             "certificateLink": "https://ude.my/UC-1e3a6452-62c4-479f-a16a-1da5a7969781/",
             "platform": "Udemy",
-            "technology": "Frontend"
+            "technology": ["Frontend", "Monorepo"]
         },
         {
             "title": "Creating Accessible Websites",
@@ -27,7 +27,7 @@
             "title": "GraphQL with React: The Complete Developers Guide",
             "certificateLink": "https://ude.my/UC-3140b5d8-15b8-4f8a-9923-7b8112e3a8e1/",
             "platform": "Udemy",
-            "technology": "Frontend"
+            "technology": ["Frontend", "Backend"]
         },
         {
             "title": "NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno)",
@@ -231,7 +231,7 @@
             "title": "Micro Frontend Fundamentals",
             "certificateLink": "https://app.pluralsight.com/achievements/share/14cfc7de-c575-42cd-a48d-1c2a3386aed2",
             "platform": "Pluralsight",
-            "technology": "Frontend"
+            "technology": ["Frontend", "Monorepo"]
         },
         {
             "title": "Functional JavaScript Libraries Playbook",
@@ -243,19 +243,19 @@
             "title": "Eliminating Security Vulnerabilities with NPM 6 Audit",
             "certificateLink": "https://app.pluralsight.com/achievements/share/a1b8518c-1b08-4fd5-898f-d841e2c2ea15",
             "platform": "Pluralsight",
-            "technology": ["Security", "Frontend"]
+            "technology": ["Security", "Frontend", "Monorepo"]
         },
         {
             "title": "Getting Started with Shell Scripting for Bash and Z Shell",
             "certificateLink": "https://app.pluralsight.com/achievements/share/3e15e612-4115-43b8-af0f-758c0714e3cd",
             "platform": "Pluralsight",
-            "technology": ["Frontend"]
+            "technology": "Devops"
         },
         {
             "title": "Package Management in JavaScript with npm and Yarn",
             "certificateLink": "https://app.pluralsight.com/achievements/share/70ee87c3-c81b-4934-b02b-a5b3f8931c9f",
             "platform": "Pluralsight",
-            "technology": ["Frontend"]
+            "technology": ["Frontend", "Monorepo"]
         }
     ]
       
