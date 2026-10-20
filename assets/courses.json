@@ -324,5 +324,434 @@
       "Monorepo"
     ],
     "year": 2025
+  },
+  {
+    "title": "AI Memory: Exploring and Building LLM Memory Systems",
+    "certificateLink": "https://www.linkedin.com/learning/certificates/ace7bd3efed15c7acd601d5f3e96f75944c9d4483e976d3ced348b00d1d92dab?trk=share_certificate",
+    "platform": "LinkedInLearning",
+    "technology": "AI",
+    "year": 2026
+  },
+  {
+    "title": "AI Agents at Work: Build Day-to-Day Workflows for Productivity",
+    "certificateLink": "https://www.linkedin.com/learning/certificates/94ff04585d09533642643a2550d9f3a228e6cee98b55527328b6992579b633e6?trk=share_certificate",
+    "platform": "LinkedInLearning",
+    "technology": [
+      "AI",
+      "Soft Skills"
+    ],
+    "year": 2026
+  },
+  {
+    "title": "Running AI Locally: Tools, Assistants, and Coding on Your Own Hardware",
+    "certificateLink": "https://www.linkedin.com/learning/certificates/3a1878f0025fcbe28c2930653bf66c52189a170036c707774d1b86b515892cb7?trk=share_certificate",
+    "platform": "LinkedInLearning",
+    "technology": [
+      "AI",
+      "Soft Skills"
+    ],
+    "year": 2026
+  },
+  {
+    "title": "Programming Foundations: SDKs",
+    "certificateLink": "https://www.linkedin.com/learning/certificates/cd52826eeddc2c2caec27fee60e2432610d73dc4bc29180e78b9ec3a8bd8fc67?trk=share_certificate",
+    "platform": "LinkedInLearning",
+    "technology": "Backend",
+    "year": 2026
+  },
+  {
+    "title": "JavaScript: Prototypes",
+    "certificateLink": "https://www.linkedin.com/learning/certificates/0ae5d34666ab26c9d581fa00185b5bb238e46a3cfc3d4aa8f9f878c5ae738267?trk=share_certificate",
+    "platform": "LinkedInLearning",
+    "technology": "Frontend",
+    "year": 2026
+  },
+  {
+    "title": "JavaScript: Classes",
+    "certificateLink": "https://www.linkedin.com/learning/certificates/5d962f695061bfcb4dd1751ee4f4f69e34edb2ccd20d923734baf15f103fe4bf?trk=share_certificate",
+    "platform": "LinkedInLearning",
+    "technology": "Frontend",
+    "year": 2026
+  },
+  {
+    "title": "JavaScript: Modern Browser APIs",
+    "certificateLink": "https://www.linkedin.com/learning/certificates/94ad7767db8f680f83282f5059f68ab3c4a0ddc67e315b69319e07de33bb5b1c?trk=share_certificate",
+    "platform": "LinkedInLearning",
+    "technology": [
+      "Frontend",
+      "Backend"
+    ],
+    "year": 2026
+  },
+  {
+    "title": "Create Agents with v0 and Vercel (No Code Required)",
+    "certificateLink": "https://www.linkedin.com/learning/certificates/86aab3d61cc385c6b6270d7ccc28a8d2ff093f6521487c3edaac5e9291e9ced5?trk=share_certificate",
+    "platform": "LinkedInLearning",
+    "technology": "AI",
+    "year": 2026
+  },
+  {
+    "title": "Build with AI: Agent Mode in Visual Studio Code",
+    "certificateLink": "https://www.linkedin.com/learning/certificates/49cffd197e13d758c92bb35f8a23ff66ff33cf37f5f0e3ec491015ac80ba752b?trk=share_certificate",
+    "platform": "LinkedInLearning",
+    "technology": "AI",
+    "year": 2026
+  },
+  {
+    "title": "Learning RabbitMQ: Efficient Message Queuing",
+    "certificateLink": "https://www.linkedin.com/learning/certificates/d7851a447ae48ecafba422850b92038ea237828745320787482fc3c8015acdf8?trk=share_certificate",
+    "platform": "LinkedInLearning",
+    "technology": [
+      "Devops",
+      "Backend"
+    ],
+    "year": 2026
+  },
+  {
+    "title": "Build a Lightweight Full-Stack Headless CMS Using Next.js, Contentful, and GraphQL",
+    "certificateLink": "https://www.linkedin.com/learning/certificates/2c6c1cda55b6d348855b8c7778f968e7e5ca200a9e600ee12808821639df3ecc?trk=share_certificate",
+    "platform": "LinkedInLearning",
+    "technology": [
+      "Frontend",
+      "Backend"
+    ],
+    "year": 2026
+  },
+  {
+    "title": "Claude Code 101: From Prompt to Product",
+    "certificateLink": "https://www.linkedin.com/learning/certificates/9fd26372f9b00838a2f35aca0c8d00469fbb753e0b9e85d105f1135fc056ff88?trk=share_certificate",
+    "platform": "LinkedInLearning",
+    "technology": "AI",
+    "year": 2026
+  },
+  {
+    "title": "Model Context Protocol (MCP): Hands-On with Agentic AI",
+    "certificateLink": "https://www.linkedin.com/learning/certificates/1ce5a7ee08d94e8d3062ca0497971a6be47b5717e40412696e9c095be33d1325?trk=share_certificate",
+    "platform": "LinkedInLearning",
+    "technology": [
+      "AI",
+      "Backend"
+    ],
+    "year": 2025
+  },
+  {
+    "title": "Unboxing AI: Build a Remote MCP Server from Zero to Deployed with OAuth",
+    "certificateLink": "https://www.linkedin.com/learning/certificates/3c52e9acac5d664ee95a16b2d5ca7a540f1b611e347f0eee16234604b70bedc0?trk=share_certificate",
+    "platform": "LinkedInLearning",
+    "technology": "AI",
+    "year": 2025
+  },
+  {
+    "title": "Practical A/B Testing",
+    "certificateLink": "https://www.linkedin.com/learning/certificates/09798dec66fe4608d3d407277f0f594dac434025ff8247984c0c703b0f743c68?trk=share_certificate",
+    "platform": "LinkedInLearning",
+    "technology": "General",
+    "year": 2025
+  },
+  {
+    "title": "TanStack Query: Efficient Data Fetching and State Management",
+    "certificateLink": "https://www.linkedin.com/learning/certificates/229f53b3dadf3093131634f3d1b8cc0f8347f89705de8150f31b31ccb79574a5?trk=share_certificate",
+    "platform": "LinkedInLearning",
+    "technology": "Frontend",
+    "year": 2025
+  },
+  {
+    "title": "Exploring AIOps",
+    "certificateLink": "https://www.linkedin.com/learning/certificates/31635deb85632e37cc4125815c000e7bccdfa1b7ecc7453e3b1b052abf1888f7?trk=share_certificate",
+    "platform": "LinkedInLearning",
+    "technology": [
+      "Devops",
+      "AI"
+    ],
+    "year": 2025
+  },
+  {
+    "title": "OpenAI API: Function Calling (2023)",
+    "certificateLink": "https://www.linkedin.com/learning/certificates/5e6ee28dccb85834fda03e68d850236ea352aa4c24aa7b1c18aa13a6e4c7752c?trk=share_certificate",
+    "platform": "LinkedInLearning",
+    "technology": [
+      "AI",
+      "Backend"
+    ],
+    "year": 2025
+  },
+  {
+    "title": "Building a Generative AI Music Visualizer with JavaScript and React",
+    "certificateLink": "https://www.linkedin.com/learning/certificates/9a4f40775a2202a6dd496b7d7701cab5f0b6cdfb558d13fa8996c55be618cca1?trk=share_certificate",
+    "platform": "LinkedInLearning",
+    "technology": [
+      "AI",
+      "Frontend"
+    ],
+    "year": 2025
+  },
+  {
+    "title": "Create a CRM Mobile Application with React Native",
+    "certificateLink": "https://www.linkedin.com/learning/certificates/e20d04a4ddda5ff7b6769581ae6d92c639bbfce3a37581fc54f1a85f42533ce2?trk=share_certificate",
+    "platform": "LinkedInLearning",
+    "technology": "Frontend",
+    "year": 2025
+  },
+  {
+    "title": "CSS: Enhancing Interfaces with Animation",
+    "certificateLink": "https://www.linkedin.com/learning/certificates/904e7a360f11f13d48f773c01ba8ede2ca09e8ad936c52f96f35dac921ec4be0?trk=share_certificate",
+    "platform": "LinkedInLearning",
+    "technology": "Frontend",
+    "year": 2025
+  },
+  {
+    "title": "Supercharge the Development Process with GitHub Extensions for Copilot Chat",
+    "certificateLink": "https://www.linkedin.com/learning/certificates/55267caba4de4d3ce19b59dff19e2738712c0371d0018fb3e8febc3d29313f56?trk=share_certificate",
+    "platform": "LinkedInLearning",
+    "technology": "Devops",
+    "year": 2025
+  },
+  {
+    "title": "ChatGPT's Operator: Automating Everyday Tasks with AI Agents",
+    "certificateLink": "https://www.linkedin.com/learning/certificates/9782109dbecbeac6a4264d26d4208b2703b3e1320199f5db958eb6dcf0fd3d39?trk=share_certificate",
+    "platform": "LinkedInLearning",
+    "technology": "AI",
+    "year": 2025
+  },
+  {
+    "title": "Accelerate Development with Artificial Intelligence and Cursor",
+    "certificateLink": "https://www.linkedin.com/learning/certificates/abc178e0932ec123958978a4deecdbf40c7b1cecbedbeaa2e3f9ba60b32a216b?trk=share_certificate",
+    "platform": "LinkedInLearning",
+    "technology": "AI",
+    "year": 2025
+  },
+  {
+    "title": "Non-Functional Requirements in the Cloud Part 1: Overview",
+    "certificateLink": "https://www.linkedin.com/learning/certificates/0f0d65646c39e9c6a1e44b72f5501fa1cc8ffa07de397c559f7b43c600a316d6?trk=share_certificate",
+    "platform": "LinkedInLearning",
+    "technology": "Devops",
+    "year": 2025
+  },
+  {
+    "title": "Take Notes That Actually Help You Remember",
+    "certificateLink": "https://www.linkedin.com/learning/certificates/be816429c8773232b6c2b8321c8fa8f9afd71b6c0014bd2649872322888e4016?trk=share_certificate",
+    "platform": "LinkedInLearning",
+    "technology": "Soft Skills",
+    "year": 2025
+  },
+  {
+    "title": "Getting Started with Claude 3",
+    "certificateLink": "https://www.linkedin.com/learning/certificates/bec4092a2599c02dc0767425752ed65cd3552bbef3fac74da1fe1275eedf18d5?trk=share_certificate",
+    "platform": "LinkedInLearning",
+    "technology": "AI",
+    "year": 2025
+  },
+  {
+    "title": "Vibe Code Your Way to a Full Stack App with Bolt",
+    "certificateLink": "https://www.linkedin.com/learning/certificates/e79248ecb2b8bdf3f930fb6b1bd2ae0b3a475d3df3e4957c945be354fa2a7091?trk=share_certificate",
+    "platform": "LinkedInLearning",
+    "technology": "AI",
+    "year": 2025
+  },
+  {
+    "title": "Automate Development Tasks with OpenAI’s Codex",
+    "certificateLink": "https://www.linkedin.com/learning/certificates/75fe1abbad1966575fe54b38ff49e935a6847aa98b63bb091131b3a83e3332c1?trk=share_certificate",
+    "platform": "LinkedInLearning",
+    "technology": "AI",
+    "year": 2025
+  },
+  {
+    "title": "CSS: Variables and Fluid Layouts",
+    "certificateLink": "https://www.linkedin.com/learning/certificates/824278e8baaadc6ccec8bd68f41e45378cbcdac6eb3966de590e67ad827e523c?trk=share_certificate",
+    "platform": "LinkedInLearning",
+    "technology": "Frontend",
+    "year": 2025
+  },
+  {
+    "title": "CSS: Inheritance, Specificity, and the Cascade",
+    "certificateLink": "https://www.linkedin.com/learning/certificates/cf49aae3fdc570e77feef030acfffde80301cd698fb72c01547fd1c917e25114?trk=share_certificate",
+    "platform": "LinkedInLearning",
+    "technology": "Frontend",
+    "year": 2025
+  },
+  {
+    "title": "CSS: Display",
+    "certificateLink": "https://www.linkedin.com/learning/certificates/32ef732d0e98cf454f4579d457e35161ad79d0400f66c706bb7ba6ef7882f969?trk=share_certificate",
+    "platform": "LinkedInLearning",
+    "technology": "Frontend",
+    "year": 2025
+  },
+  {
+    "title": "React Hooks",
+    "certificateLink": "https://www.linkedin.com/learning/certificates/ce68a6086464922209055a7738e0e59d2e1da0764e22ec4a3549fbadcbbd59ca?trk=share_certificate",
+    "platform": "LinkedInLearning",
+    "technology": "Frontend",
+    "year": 2025
+  },
+  {
+    "title": "Building Serverless Applications in AWS",
+    "certificateLink": "https://www.linkedin.com/learning/certificates/16bcbea1e53a5ed91ece3fd8a13d567acd5f8f89a35162b15ae9fb1c7b9de4a2?trk=share_certificate",
+    "platform": "LinkedInLearning",
+    "technology": [
+      "Devops",
+      "Frontend"
+    ],
+    "year": 2025
+  },
+  {
+    "title": "Introducing Caching to a Serverless Application with CloudFront",
+    "certificateLink": "https://www.linkedin.com/learning/certificates/779a4fec10ba1b21fcb828c29136625b8c9971fa88cca20f55caf57f1760b2bd?trk=share_certificate",
+    "platform": "LinkedInLearning",
+    "technology": "Devops",
+    "year": 2025
+  },
+  {
+    "title": "Building Dynamic Websites using AWS Lambdas",
+    "certificateLink": "https://www.linkedin.com/learning/certificates/b174bd0d96ee28a99698e2c5f13af6e99015ab1b168599b68f47913ff33df3ba?trk=share_certificate",
+    "platform": "LinkedInLearning",
+    "technology": "Devops",
+    "year": 2025
+  },
+  {
+    "title": "React: Ecosystems",
+    "certificateLink": "https://www.linkedin.com/learning/certificates/335fa82ac4ba9393593a9785e5954795e37cb09883b457ecaea41ea337a79a51?trk=share_certificate",
+    "platform": "LinkedInLearning",
+    "technology": "Frontend",
+    "year": 2025
+  },
+  {
+    "title": "React.js Code Challenges",
+    "certificateLink": "https://www.linkedin.com/learning/certificates/391c60f1cc50b54e3d93684787440504ed0d849e40ca74e18790af8f7365519e?trk=share_certificate",
+    "platform": "LinkedInLearning",
+    "technology": "Frontend",
+    "year": 2024
+  },
+  {
+    "title": "Be the Transformative Leader Your Organization Needs Now",
+    "certificateLink": "https://www.linkedin.com/learning/certificates/a3546a50eb50fabed1811b7023198c83d9e0496ea2546d95ebc8be924705aab5?trk=share_certificate",
+    "platform": "LinkedInLearning",
+    "technology": "Soft Skills",
+    "year": 2024
+  },
+  {
+    "title": "Be the Manager People Won't Leave (2024)",
+    "certificateLink": "https://www.linkedin.com/learning/certificates/f1a8cbcb238b219b13e895b087385a5e8061b0b48d3aee5270c8a7503534c712?trk=share_certificate",
+    "platform": "LinkedInLearning",
+    "technology": "Soft Skills",
+    "year": 2024
+  },
+  {
+    "title": "Becoming an Ally to All",
+    "certificateLink": "https://www.linkedin.com/learning/certificates/3f27c18d470af64c5246c2f5126e57aca69b5e3dc7f60c41d1d65cbee9e35fb0?trk=share_certificate",
+    "platform": "LinkedInLearning",
+    "technology": "Soft Skills",
+    "year": 2024
+  },
+  {
+    "title": "Building Trust (2018)",
+    "certificateLink": "https://www.linkedin.com/learning/certificates/25b57a22c7b8c25b645dff20cfb5e21f2d48320106a4ba5f9720e829132e1527?trk=share_certificate",
+    "platform": "LinkedInLearning",
+    "technology": "Soft Skills",
+    "year": 2024
+  },
+  {
+    "title": "Pitching Your Ideas Strategically",
+    "certificateLink": "https://www.linkedin.com/learning/certificates/252191607fb51095b0a36aeee9d26b26cdc8adfc345d4f729cfa96f4569026d4?trk=share_certificate",
+    "platform": "LinkedInLearning",
+    "technology": "Soft Skills",
+    "year": 2024
+  },
+  {
+    "title": "Develop Interpersonal Skills for Inclusive Workplaces",
+    "certificateLink": "https://www.linkedin.com/learning/certificates/21415286ec657afc1659b8582ccf1d7bf231ef29eb18c1bf754414a188410217?trk=share_certificate",
+    "platform": "LinkedInLearning",
+    "technology": "Soft Skills",
+    "year": 2024
+  },
+  {
+    "title": "Being an Effective Team Member (2020)",
+    "certificateLink": "https://www.linkedin.com/learning/certificates/8ef4e02bd35b53cae9d55a4ea78ed18cae30575024489881028a2754160c5ad5?trk=share_certificate",
+    "platform": "LinkedInLearning",
+    "technology": "Soft Skills",
+    "year": 2024
+  },
+  {
+    "title": "Being a Good Mentee",
+    "certificateLink": "https://www.linkedin.com/learning/certificates/2122623cd167c8a3fadcef4663ff6c0e4d5ecd41daa3b7e0362233bc80a3df4c?trk=share_certificate",
+    "platform": "LinkedInLearning",
+    "technology": "Soft Skills",
+    "year": 2024
+  },
+  {
+    "title": "Professional Networking",
+    "certificateLink": "https://www.linkedin.com/learning/certificates/75a7e5bbc49463223634fe3897fb95597708ac296adfadb51d7cf3968ba89323?trk=share_certificate",
+    "platform": "LinkedInLearning",
+    "technology": "Soft Skills",
+    "year": 2024
+  },
+  {
+    "title": "Enhance Productivity in a Hybrid Work Environment",
+    "certificateLink": "https://www.linkedin.com/learning/certificates/156d138ffc73488b15d7dd51c1033d2af6849d5f62bcbb07f5a34bdf0cd7c3f1?trk=share_certificate",
+    "platform": "LinkedInLearning",
+    "technology": "Soft Skills",
+    "year": 2024
+  },
+  {
+    "title": "Making Big Goals Achievable",
+    "certificateLink": "https://www.linkedin.com/learning/certificates/a6bd3648c29e748853e9178ae03dafbc10dfbbc0f8ab14b7d6ef3ed98053e222?trk=share_certificate",
+    "platform": "LinkedInLearning",
+    "technology": "Soft Skills",
+    "year": 2024
+  },
+  {
+    "title": "One-Minute Habits for Success",
+    "certificateLink": "https://www.linkedin.com/learning/certificates/54b574442f741be5f6ec541392633ae8358073e7decea32d25a5e6361d0d10ba?trk=share_certificate",
+    "platform": "LinkedInLearning",
+    "technology": "Soft Skills",
+    "year": 2024
+  },
+  {
+    "title": "Build RAG Applications with LlamaIndex and JavaScript [NEW]",
+    "certificateLink": "https://ude.my/UC-e5dc6680-f72e-44d6-b5f1-da0225ab017d/",
+    "platform": "Udemy",
+    "technology": [
+      "AI",
+      "Frontend",
+      "Backend"
+    ],
+    "year": 2025
+  },
+  {
+    "title": "AI Engineer Agentic Track: The Complete Agent & MCP Course",
+    "certificateLink": "https://ude.my/UC-87641a7f-0266-4254-a039-a5f6f1a668c1/",
+    "platform": "Udemy",
+    "technology": [
+      "AI",
+      "Backend"
+    ],
+    "year": 2026
+  },
+  {
+    "title": "Web Performance In Practice: Master Core Web Vitals & More",
+    "certificateLink": "https://ude.my/UC-ee9a15ee-dbaf-4ce6-a2cf-7cc80531f484/",
+    "platform": "Udemy",
+    "technology": "Frontend",
+    "year": 2026
+  },
+  {
+    "title": "OWASP Top 10 2025: Web App Security for Beginners (No Code)",
+    "certificateLink": "https://ude.my/UC-865da164-c8b7-4b7c-ac5a-f316455f2690/",
+    "platform": "Udemy",
+    "technology": "Security",
+    "year": 2026
+  },
+  {
+    "title": "OWASP Top 10: Comprehensive Web Application Security",
+    "certificateLink": "https://ude.my/UC-a2e4ff33-3b14-4b84-a026-51b2055bfac4/",
+    "platform": "Udemy",
+    "technology": "Security",
+    "year": 2026
+  },
+  {
+    "title": "Datadog: Performance monitoring tool (from Zero to Hero)",
+    "certificateLink": "https://ude.my/UC-8f4a9896-0e56-4554-9915-983e22399640/",
+    "platform": "Udemy",
+    "technology": "Devops",
+    "year": 2025
   }
 ]
