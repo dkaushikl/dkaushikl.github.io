@@ -111,8 +111,9 @@
         sortedKeys.forEach((key) => {
             html += `<h2 style="text-transform: capitalize;">${key}</h2><ul>`;
             grouped.get(key).forEach(item => {
+                const certificateYear = item.year ? ` (${item.year})` : '';
                 html += `<li style="text-transform: capitalize;">
-                    <a href="${item.certificateLink}" target="_blank">${item.title}</a>
+                    <a href="${item.certificateLink}" target="_blank" rel="noopener noreferrer">${item.title}${certificateYear}</a>
                  </li>`;
             });
             html += "</ul>";
