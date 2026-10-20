@@ -112,8 +112,9 @@
             html += `<h2 style="text-transform: capitalize;">${key}</h2><ul>`;
             grouped.get(key).forEach(item => {
                 const certificateYear = item.year ? ` (${item.year})` : '';
+                const certificatePlatform = item.platform ? ` - ${item.platform}` : '';
                 html += `<li style="text-transform: capitalize;">
-                    <a href="${item.certificateLink}" target="_blank" rel="noopener noreferrer">${item.title}${certificateYear}</a>
+                    <a href="${item.certificateLink}" target="_blank" rel="noopener noreferrer">${item.title}${certificateYear}${certificatePlatform}</a>
                  </li>`;
             });
             html += "</ul>";
